@@ -1,0 +1,24 @@
+
+/*
+Name: Radhika Gupta
+Roll No: 2410303371
+Assignment: Lab 11 - Task 3
+*/
+
+:root {
+    --primary: #1d3557;
+    --accent: #e63946;
+    --heading-size: 2rem;
+    --spacing: 16px;
+}
+
+body {
+    color: var(--primary);
+    padding: var(--spacing);
+}
+
+h1 {
+    color: var(--accent);
+    font-size: var(--heading-size);
+}
+
